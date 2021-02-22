@@ -1,2 +1,1 @@
-# Client Side Boot Camp
- client 
+# Gene's client-side Boot Camp Repository
